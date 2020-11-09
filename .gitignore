@@ -1,0 +1,19 @@
+# compiled output
+dist
+tmp
+
+#dependencies
+node_modules
+
+# IDE-VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/task.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#Logs
+*.log
+
+# Test Results
+allure-results
